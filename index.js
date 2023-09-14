@@ -41,4 +41,5 @@ async function run(){
     await browser.close();
 }
 console.log('DONE!');
+console.log('DONE!V2');
 run();
