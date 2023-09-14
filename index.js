@@ -40,5 +40,5 @@ async function run(){
 
     await browser.close();
 }
-
+console.log('DONE!');
 run();
